@@ -8,11 +8,11 @@ Set the input file in the code and the selection schemes for parent and survivor
 
 Selection sechemes currently coded are: 
 
-Markup : * Truncation
-         * Binary Tournament 
-         * Rank Based
-         * Fitness Proportional
-         * Random
+Markup : 1. Truncation
+         2. Binary Tournament 
+         3. Rank Based
+         4. Fitness Proportional
+         5. Random
          
  ## Results ##
  
